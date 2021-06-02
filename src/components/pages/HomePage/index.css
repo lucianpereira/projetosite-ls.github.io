@@ -1,0 +1,19 @@
+.carrossel {
+  width: 80%;
+  height: 80%;
+  margin: auto;
+  border: 50px solid rgb(255, 255, 255);
+  padding: 10px;
+}
+
+h3 {
+  color: whitesmoke;
+  text-shadow: 1px 1px rgb(14, 10, 10);
+  background-color: #d8a330;
+}
+
+p {
+  color: whitesmoke;
+  text-shadow: 1px 1px rgb(14, 10, 10);
+  background-color: black;
+}
