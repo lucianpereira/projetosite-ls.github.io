@@ -11,3 +11,5 @@ Projeto de Linguagens de Script. O projeto foi desenvolvido tomando por base a i
 /Equipe/
 
 Débora Aline Quirino Lima (debora.quirino@academico.ifpb.edu.br) Lucian Hendyo Max Pereira (lucian.pereira@academico.ifpb.edu.br)
+
+Visualização (Heroku): https://resumoow.herokuapp.com/?
