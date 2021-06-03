@@ -1,4 +1,4 @@
-**Protótipo Site para uma Coord. de Licitações e Contratos**
+**Protótipo Site Portal de Filmes e Resenhas**
 
 /Descrição do Projeto/
 
